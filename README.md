@@ -19,10 +19,26 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **[Yomic](https://github.com/ArisaAkiyama/yomic)** — A fast, open-source desktop manga reader for Windows built with C# & Avalonia UI.
-- 🌱 I’m constantly exploring cross-platform desktop UI frameworks, JavaScript extensions, and performance optimization.
-- 💬 Ask me about **C#**, **.NET**, **Avalonia UI**, and **Desktop App Development**.
-- ⚡ Fun fact: I love clean interfaces, dark mode aesthetic, and vibe coding!
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm Doing</h3>
+      <ul>
+        <li>Creator & Lead Developer of <b><a href="https://github.com/ArisaAkiyama/yomic">Yomic</a></b></li>
+        <li>Building <b><a href="https://github.com/ArisaAkiyama/extension-yomic">Yomic JS Extensions</a></b> for web sources</li>
+        <li>Exploring <b>C#</b>, <b>.NET 10</b>, and <b>Avalonia UI</b> performance</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Quick Profile</h3>
+      <ul>
+        <li><b>Role:</b> Software Developer & Vibe Coder</li>
+        <li><b>Specialty:</b> High-Performance Desktop & Web Apps</li>
+        <li><b>Design Vibe:</b> Minimalist, Dark Mode & Fast UI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
