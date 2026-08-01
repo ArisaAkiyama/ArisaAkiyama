@@ -68,16 +68,17 @@
 
 <div align="center">
 
-  <!-- GitHub Overall Stats -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArisaAkiyama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <!-- GitHub Streak Stats (Demolab New Official Endpoint) -->
-  <img height="165em" src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
+  <!-- Activity Graph (Grafik Kontribusi Garis Modern) -->
+  <a href="https://github.com/ArisaAkiyama">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArisaAkiyama&theme=tokyonight&hide_border=true&area=true"/>
+  </a>
 
   <br/><br/>
 
-  <!-- Top Languages Card -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisaAkiyama&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/ArisaAkiyama">
+    <img height="165em" src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
+  </a>
 
 </div>
 
