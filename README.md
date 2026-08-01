@@ -34,10 +34,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"/>
