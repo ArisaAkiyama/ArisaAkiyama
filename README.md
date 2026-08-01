@@ -71,8 +71,8 @@
   <!-- GitHub Overall Stats -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArisaAkiyama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   
-  <!-- GitHub Streak Stats (from Rahul DkJain Generator) -->
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
+  <!-- GitHub Streak Stats (Demolab New Official Endpoint) -->
+  <img height="165em" src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
 
   <br/><br/>
 
