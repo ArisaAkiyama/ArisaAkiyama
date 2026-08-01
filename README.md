@@ -3,6 +3,26 @@
 
 ###
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArisaAkiyama&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+###
+
+- 🔭 I'm currently working on **[Yomic](https://github.com/ArisaAkiyama/yomic)** — An open-source desktop manga reader for Windows built with C# & Avalonia UI
+
+- 👯 I'm looking to collaborate on **Open-source desktop apps, manga/webtoon tools, and C# / Avalonia UI projects**
+
+- 🤝 I'm looking for help with **Expanding Yomic extension sources and improving scraper compatibility**
+
+- 🌱 I'm currently learning **Advanced .NET performance optimization and JavaScript extension architecture**
+
+- 💬 Ask me about **C#, .NET, Avalonia UI, Desktop App Development, and JavaScript source extensions**
+
+- ⚡ Fun fact: **I read manga while building a manga reader — true vibe coder energy! 📖✨**
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"/>
   <img width="12" />
@@ -14,9 +34,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"/>
   <img width="12" />
@@ -53,3 +73,7 @@
 </picture>
 
 ###
+
+<p align="center">
+  <b>If you enjoy using Yomic, please give the repo a ⭐!</b>
+</p>
