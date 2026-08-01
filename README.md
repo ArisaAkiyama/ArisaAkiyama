@@ -1,14 +1,13 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,100:00AAFF&height=200&section=header&text=Arisa%20Akiyama&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20Vibe%20Coder&descAlignY=58&descSize=22" width="100%"/>
-
 <div align="center">
 
-<!-- Typing Animation -->
+# 👋 Hi there, I'm Arisa Akiyama!
+
+<!-- Typing Animation (Demolab CDN - 100% Lancar) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0066FF&center=true&vCenter=true&width=750&lines=Creator+of+Yomic+%E2%80%94+The+Ultimate+Desktop+Manga+Reader;C%23+%7C+.NET+10+%7C+Avalonia+UI+%7C+JavaScript;Building+High-Performance+%26+Beautiful+Desktop+Apps" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- Social & Badges -->
+<!-- Social & Badges (Shields.io CDN) -->
 [![GitHub Stars](https://img.shields.io/github/stars/ArisaAkiyama?style=flat-square&color=EBCB8B&label=Total%20Stars&logo=github)](https://github.com/ArisaAkiyama?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/ArisaAkiyama?style=flat-square&color=0066FF&label=Followers&logo=github)](https://github.com/ArisaAkiyama?tab=followers)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ArisaAkiyama&label=Profile%20Views&countColor=%230066FF&style=flat-square)](https://github.com/ArisaAkiyama)
@@ -68,14 +67,7 @@
 
 <div align="center">
 
-  <!-- Activity Graph (Grafik Kontribusi Garis Modern) -->
-  <a href="https://github.com/ArisaAkiyama">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArisaAkiyama&theme=tokyonight&hide_border=true&area=true"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak Stats (Demolab CDN - 100% Terload Sempurna) -->
   <a href="https://github.com/ArisaAkiyama">
     <img height="165em" src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
   </a>
@@ -88,6 +80,4 @@
 
 <div align="center">
   <p><b>If you enjoy using Yomic, please give the repo a ⭐!</b></p>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFF,100:0052CC&height=120&section=footer" width="100%"/>
 </div>
