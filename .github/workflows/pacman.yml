@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -15,7 +18,8 @@ jobs:
           outputs: |
             dist/pacman-contribution-graph.svg?game=pacman
             dist/pacman-contribution-graph-dark.svg?game=pacman&color_snow=0066ff
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
           build_dir: dist
