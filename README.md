@@ -67,7 +67,14 @@
 
 <div align="center">
 
-  <!-- GitHub Streak Stats (Demolab CDN - 100% Terload Sempurna) -->
+  <!-- Activity Graph (Grafik Kontribusi Garis Modern) -->
+  <a href="https://github.com/ArisaAkiyama">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArisaAkiyama&theme=tokyonight&hide_border=true&area=true"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/ArisaAkiyama">
     <img height="165em" src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
   </a>
