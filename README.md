@@ -1,106 +1,92 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Arisa Akiyama</h1>
+<h3 align="center">A passionate Software Developer & Vibe Coder from Indonesia</h3>
 
-# 👋 Hi there, I'm Arisa Akiyama!
-
-<!-- Typing Animation (Demolab CDN - 100% Lancar) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0066FF&center=true&vCenter=true&width=750&lines=Creator+of+Yomic+%E2%80%94+The+Ultimate+Desktop+Manga+Reader;C%23+%7C+.NET+10+%7C+Avalonia+UI+%7C+JavaScript;Building+High-Performance+%26+Beautiful+Desktop+Apps" alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- Social & Badges (Shields.io CDN) -->
-[![GitHub Stars](https://img.shields.io/github/stars/ArisaAkiyama?style=flat-square&color=EBCB8B&label=Total%20Stars&logo=github)](https://github.com/ArisaAkiyama?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/ArisaAkiyama?style=flat-square&color=0066FF&label=Followers&logo=github)](https://github.com/ArisaAkiyama?tab=followers)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=ArisaAkiyama&label=Profile%20Views&countColor=%230066FF&style=flat-square)](https://github.com/ArisaAkiyama)
-[![Support Trakteer](https://img.shields.io/badge/Support-Trakteer-red?style=flat-square&logo=buy-me-a-coffee)](https://trakteer.id/Arisa-Akiyama)
-
-</div>
-
-<br/>
-
-## 💫 About Me
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 What I'm Doing</h3>
-      <ul>
-        <li>Creator & Lead Developer of <b><a href="https://github.com/ArisaAkiyama/yomic">Yomic</a></b></li>
-        <li>Building <b><a href="https://github.com/ArisaAkiyama/extension-yomic">Yomic JS Extensions</a></b> for web sources</li>
-        <li>Exploring <b>C#</b>, <b>.NET 10</b>, and <b>Avalonia UI</b> performance</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Quick Profile</h3>
-      <ul>
-        <li><b>Role:</b> Software Developer & Vibe Coder</li>
-        <li><b>Specialty:</b> High-Performance Desktop & Web Apps</li>
-        <li><b>Design Vibe:</b> Minimalist, Dark Mode & Fast UI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🛠️ Languages & Frameworks
+<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623436313635633235302f313533383636323437343837352d574c42464b54375430354438344149543036454c2f6b65363766663938666465373166383065333234306266363132386261316362313962396266353434363762313136663166313463333932363062653136302f37626266363762323531623836363561663566376562323965383462336239663234343239333437326539383330323036393962313139626534363661373437372e676966"/>
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"/></a> &nbsp;
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="42" height="42"/></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a> &nbsp;
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/></a> &nbsp;
-  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="42" height="42"/></a> &nbsp;
-  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/></a> &nbsp;
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ArisaAkiyama&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ArisaAkiyama&theme=tokyonight&no-frame=true&row=1&column=6" alt="ArisaAkiyama"/>
+  </a>
 </p>
 
 <br/>
 
-## 🔥 Featured Projects
+- 🔭 I'm currently working on **[Yomic](https://github.com/ArisaAkiyama/yomic)** — A fast, open-source desktop manga reader for Windows
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📖 Yomic</h3>
-      <p align="center">The Ultimate Desktop Manga Reader for Windows built with .NET 10 & Avalonia UI.</p>
-      <p align="center">
-        <a href="https://github.com/ArisaAkiyama/yomic"><b>View Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧩 Yomic Extensions</h3>
-      <p align="center">Official collection of JavaScript source extensions for Yomic Application.</p>
-      <p align="center">
-        <a href="https://github.com/ArisaAkiyama/extension-yomic"><b>View Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🌱 I'm currently exploring **C#, .NET 10, Avalonia UI, and JavaScript Extensions**
+
+- 💬 Ask me about **C#, .NET, Avalonia UI, Desktop App Development**
+
+- 📫 How to reach me: **[trakteer.id/Arisa-Akiyama](https://trakteer.id/Arisa-Akiyama)**
+
+- ⚡ Fun fact: **I love clean interfaces, dark mode aesthetic, and vibe coding!**
 
 <br/>
 
-## 📈 GitHub Live Statistics
-
-<div align="center">
-
-  <!-- Activity Graph (Grafik Kontribusi Garis Modern) -->
-  <a href="https://github.com/ArisaAkiyama">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArisaAkiyama&theme=tokyonight&hide_border=true&area=true"/>
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/ArisaAkiyama" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
   </a>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/ArisaAkiyama">
-    <img height="165em" src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true"/>
+  <a href="https://trakteer.id/Arisa-Akiyama" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Trakteer-Support%20Me-red?style=for-the-badge" alt="Trakteer" height="28"/>
   </a>
+</p>
 
-</div>
+<br/>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">📊 GitHub Statistics:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArisaAkiyama&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArisaAkiyama&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArisaAkiyama&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <br/>
 
 ---
 
-<div align="center">
-  <p><b>If you enjoy using Yomic, please give the repo a ⭐!</b></p>
-</div>
+<p align="center">
+  <b>If you enjoy using Yomic, please give the repo a ⭐!</b>
+</p>
